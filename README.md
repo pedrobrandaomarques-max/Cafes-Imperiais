@@ -1,2 +1,3 @@
-# Coffes-Imperial
-É um projeto de cafeteria muito bom do centro de São Paulo
+☕ Cafés-Imperiais
+
+Projeto acadêmico de desenvolvimento web voltado à criação de um site institucional para uma cafeteria localizada no centro de São Paulo.
